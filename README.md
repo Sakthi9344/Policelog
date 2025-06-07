@@ -6,3 +6,6 @@ Step 4: Filling NaN values with suitable values
 Step 5: Converting the row into corrected date and time formats and combining them to make it as timestamp
 Step 6: Connecting VS Code with Postgres SQL with necessary data and making it as auto comitting and defining the cursor for connection
 Step 7: Creating the database and loading the file into the created data base using SQLAlchemy.
+Step 8: Imported necessary packages related to streamlit
+Step 9: Created connection with Postgres SQL for establishing query with streamlit
+Step 10: Suitable queries made wrt the questions asked in the project file.
