@@ -46,7 +46,7 @@ st.markdown("Real-time tracking of checkpost ledger")
 st.header("Policelogs Overview")
 
 # Initial preview query of table of log data
-query = """SELECT * FROM "Policelog" LIMIT 10;"""
+query = """SELECT * FROM "Policelog";"""
 data = fetchdata(query)
 st.dataframe(data, use_container_width=True)
 
